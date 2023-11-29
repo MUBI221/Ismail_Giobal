@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757605110519",
+    "project_id": "ismail-giobal",
+    "storage_bucket": "ismail-giobal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757605110519:android:221bfbc872fa4ebfedf9f2",
+        "android_client_info": {
+          "package_name": "com.example.ismail_giobal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivKp5C86VjQYDJ508IeXH23QP_Ux_2X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
